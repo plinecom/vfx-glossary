@@ -54,8 +54,8 @@ ZIPでは16ライン毎に圧縮するが、ZIPSでは１ライン毎にZIP圧�
 ただ、高品位を狙ってOpenEXR利用することがほとんどなのと、納品先で解凍結果が異なって事故る可能性のあるロッシーな非可逆圧縮は、あんまり使わないかなと思う。自社でマスターまで出す大規模スタジオならストレージ効率の面から選択肢に入るかもしれない。
 
 開発者向け記事
-[PythonでOpenEXRファイルの圧縮方法を変換する](https://qiita.com/plinecom/items/7fa526fb25cab3c53509)
-[静止画(OpenEXR)の連番を動画にしたい。Pythonとffmpegで](https://qiita.com/plinecom/items/76ca4d912f89e24c2ce6)
-[PythonでOpenImageIO(OIIO)を使ってOpenEXRをJPEGに変換する](https://qiita.com/plinecom/items/f5a0e63b1835f8e71338)
-[PythonでOpenImageIO(OIIO)を使ってOpenEXR画像に3DLUTを焼き込む](https://qiita.com/plinecom/items/b8f672f98637c5948da5)
-[PythonでOpenEXRファイルをチャンネル毎に分割する](https://qiita.com/plinecom/items/04b829ad796ec51c4e52)
+- [PythonでOpenEXRファイルの圧縮方法を変換する](https://qiita.com/plinecom/items/7fa526fb25cab3c53509)
+- [静止画(OpenEXR)の連番を動画にしたい。Pythonとffmpegで](https://qiita.com/plinecom/items/76ca4d912f89e24c2ce6)
+- [PythonでOpenImageIO(OIIO)を使ってOpenEXRをJPEGに変換する](https://qiita.com/plinecom/items/f5a0e63b1835f8e71338)
+- [PythonでOpenImageIO(OIIO)を使ってOpenEXR画像に3DLUTを焼き込む](https://qiita.com/plinecom/items/b8f672f98637c5948da5)
+- [PythonでOpenEXRファイルをチャンネル毎に分割する](https://qiita.com/plinecom/items/04b829ad796ec51c4e52)
