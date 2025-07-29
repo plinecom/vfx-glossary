@@ -7,6 +7,6 @@ CG/VFXで主に使われるのは10bit Log
 
 CGやVFXに用いるメタデータ（タイムコードなど）を画像に一緒に記録することができるので、扱いやすい。
 
-Digital Picture Exchangeの略
+Digital Picture Exchangeの略
 
-カメラ・フィルムメーカーのKodakが開発 → SMPTEによってANSI/SMPTE ST 268‑1/‑2として標準化された
+カメラ・フィルムメーカーのKodakが開発 → SMPTEによってANSI/SMPTE ST 268‑1/‑2として標準化された
