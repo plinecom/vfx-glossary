@@ -1,1 +1,0 @@
-Teradici (HP Anywhere)
