@@ -1,9 +1,10 @@
-# 序文
+# VFX用語辞典
 
+## 序文
 読む楽しさを最優先し、独断と偏見と誇張と毒舌をモリモリにしてVFXで扱う用語をまとめました。
 
 
 画像フォーマット
-- [EXR](image_file_format/EXR.md)
-- [DPX（でぃーぴーえっくす）](image_file_format/DPX.md)
-- [EXR](image_file_format/EXR.md)
+- [EXR](静止画ファイルフォーマット/EXR.md)
+- [DPX（でぃーぴーえっくす）](静止画ファイルフォーマット/DPX.md)
+- [EXR](静止画ファイルフォーマット/EXR.md)
