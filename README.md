@@ -72,6 +72,7 @@
 - [Resolve（りぞるぶ）](DCCツール/2D/Resolve.md)
 - [Flame（ふれーむ）](DCCツール/2D/Flame.md)
 - [Avid（あびっど）](DCCツール/2D/Avid.md)
+- [NeatVideo（にーとびでお）](DCCツール/2D/NeatVideo.md)
 
 #### 3D
 
